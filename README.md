@@ -1,2 +1,3 @@
-# HTML-CSS-Projects
-Assignments and projects made with HTML and CSS
+# HTML-CSS
+
+This repository contains a collection of small HTML and CSS assignments and practice projects.
