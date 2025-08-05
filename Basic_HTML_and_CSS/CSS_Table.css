@@ -1,0 +1,17 @@
+table {
+	border:solid;
+}
+
+td:hover {
+	background-color: yellow; 
+	color:black;
+}
+
+tr, th {
+	background-color:black;
+	color:cornsilk;
+}
+
+font {
+	color:grey;
+}
