@@ -1,0 +1,22 @@
+body {
+    font-family: 'Comic Sans MS', 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+h1, h2, h3 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 2em;
+}
+
+p, a, li {
+    font-size: 1em;
+}
+
+form input {
+    width: 250px;             
+    margin: 10px 0;           
+    border: 2px solid #ffcc00;
+    border-radius: 8px;   
+    padding: 8px;             
+    font-size: 1em;         
+}
